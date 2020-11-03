@@ -103,6 +103,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("7",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -120,6 +121,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("8",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -137,6 +139,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("9",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -156,6 +159,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("4",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -173,6 +177,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("5",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -190,6 +195,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("6",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -209,6 +215,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("1",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -226,6 +233,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("2",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -243,6 +251,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("3",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
@@ -261,6 +270,7 @@ class _ConverterState extends State<Converter> {
                               },
                               child: Text("0",
                                   style: new TextStyle(
+                                    height: 3,
                                     fontSize: 20.0,
                                     color: Colors.white,
                                   ))),
